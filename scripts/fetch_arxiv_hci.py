@@ -93,7 +93,7 @@ def generate_markdown(papers, output_dir: str):
         f"# 📡 arXiv cs.HC Digest — {today}",
         "",
         "> Automated intake of the latest Human-Computer Interaction preprints.",
-        "> Pick 1–2 papers that look promising to dissect using [[templates/paper-note-template|Paper Note Template]].",
+        "> Pick 1–2 papers that look promising to dissect using [[90-templates/paper-note|Paper Note Template]].",
         "",
         "---",
         ""
@@ -124,7 +124,7 @@ def generate_markdown(papers, output_dir: str):
 if __name__ == "__main__":
     script_dir = os.path.dirname(os.path.abspath(__file__))
     project_root = os.path.abspath(os.path.join(script_dir, ".."))
-    digests_dir = os.path.join(project_root, "curated-sources", "arxiv-digests")
+    digests_dir = os.path.join(project_root, "10-data", "sources", "arxiv-digests")
     os.makedirs(digests_dir, exist_ok=True)
     
     print("Fetching recent cs.HC papers from arXiv...")
