@@ -21,7 +21,7 @@ tags: [course, week/05]
 
 ## 📚 Materials
 
-- **Lecture:** CS6750 Lessons 2.7 *Task Analysis*, 2.8 *Distributed Cognition*
+- **Lecture:** Stanford CS147: *Concept Videos, Storyboarding & Task Analysis*
 - **Textbook:** Amy Ko, *Design Methods* (free): https://faculty.washington.edu/ajko/books/design-methods/ — ch. *How to define problems*
 - **Paper of the week:** Hollan, Hutchins & Kirsh (2000). *Distributed Cognition: Toward a New Foundation for HCI Research*. ACM TOCHI 7(2).
 

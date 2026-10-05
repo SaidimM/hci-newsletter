@@ -21,7 +21,7 @@ tags: [course, week/03]
 
 ## 📚 Materials
 
-- **Lecture:** CS6750 Lesson 2.4 *Human Abilities*
+- **Lecture:** Stanford CS147: *Human Abilities & Visual Design* (Perception, Motor Skills, Fitts’s Law)
 - **Textbook:** Norman, *DOET* — Ch. 3 *Knowledge in the Head and in the World*
 - **Textbook:** Amy Ko, *User Interface Software and Technology* (free): https://faculty.washington.edu/ajko/books/user-interface-software-and-technology/ — ch. *Pointing*
 - **Paper of the week:** MacKenzie (1992). *Fitts' Law as a Research and Design Tool in Human-Computer Interaction*. Human-Computer Interaction 7(1).

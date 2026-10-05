@@ -21,7 +21,7 @@ tags: [course, week/12]
 
 ## 📚 Materials
 
-- **Lecture:** Read 2 recent CHI/UIST papers in your project's area (use `10-data/sources/arxiv-digests/` + ACM DL) as related work
+- **Lecture:** Stanford CS147: *Final Project Presentations & Research Writing*
 - **Textbook:** Philip Guo, *The Ph.D. Grind* (free) — skim
 - **Textbook:** ACM SIGCHI paper template (Overleaf or Word)
 - **Paper of the week:** Your 2 related-work papers (above) — note how they structure Intro → Related Work → Method → Results → Discussion.

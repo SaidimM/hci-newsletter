@@ -21,7 +21,7 @@ tags: [course, week/01]
 
 ## 📚 Materials
 
-- **Lecture:** CS6750 Lessons 1.1 *Introduction to HCI*, 1.3 *Exploring HCI*, 2.1 *Introduction to Principles*, 2.2 *Feedback Cycles*
+- **Lecture:** Stanford CS147: *Intro to HCI & The Design Process* (James Landay) + *Design Discovery*
 - **Textbook:** Norman, *The Design of Everyday Things* — Ch. 1 *The Psychopathology of Everyday Things*
 - **Textbook:** Amy Ko, *Design Methods* (free): https://faculty.washington.edu/ajko/books/design-methods/ — ch. *What designers do*
 - **Paper of the week:** Vannevar Bush (1945). *As We May Think*. The Atlantic. (the historical root of interactive computing)

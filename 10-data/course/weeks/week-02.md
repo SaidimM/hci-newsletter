@@ -21,7 +21,7 @@ tags: [course, week/02]
 
 ## 📚 Materials
 
-- **Lecture:** CS6750 Lessons 2.5 *Design Principles and Heuristics*, 2.6 *Mental Models and Representations*
+- **Lecture:** Stanford CS147: *Design Principles, Affordances & Heuristic Evaluation*
 - **Textbook:** Norman, *DOET* — Ch. 2 *The Psychology of Everyday Actions* & Ch. 4 *Knowing What to Do*
 - **Textbook:** Amy Ko, *Design Methods* (free): https://faculty.washington.edu/ajko/books/design-methods/ — ch. *How to evaluate analytically*
 - **Textbook:** NN/g: *10 Usability Heuristics for User Interface Design* and *How to Conduct a Heuristic Evaluation*

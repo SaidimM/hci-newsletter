@@ -21,7 +21,7 @@ tags: [course, week/06]
 
 ## 📚 Materials
 
-- **Lecture:** CS6750 Lessons 3.4 *Design Alternatives*, 3.5 *Prototyping*
+- **Lecture:** Stanford CS147: *Low-Fi Prototyping & Rapid Experimentation*
 - **Textbook:** Amy Ko, *Design Methods* (free): https://faculty.washington.edu/ajko/books/design-methods/ — ch. *How to be creative* & *How to prototype*
 - **Paper of the week:** Houde & Hill (1997). *What Do Prototypes Prototype?* Handbook of HCI. + skim Dow et al. (2010) *Parallel Prototyping Leads to Better Design Results*, ACM TOCHI.
 

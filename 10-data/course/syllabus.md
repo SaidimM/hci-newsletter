@@ -23,7 +23,7 @@ By the end of this course I can:
 
 | Type | Resource | Access |
 |---|---|---|
-| Lecture spine | Georgia Tech **CS6750 Human-Computer Interaction** (David Joyner) | Free: [OMSCS Open Courseware](https://omscs.gatech.edu/cs-6750-human-computer-interaction-course-videos) |
+| Lecture spine | Stanford **CS147: Introduction to Human-Computer Interaction Design** (James Landay) | Free: [Stanford CS147](https://hci.stanford.edu/courses/cs147/) & [YouTube (@StanfordHCI)](https://www.youtube.com/@StanfordHCI) |
 | Textbook 1 | Don Norman, *The Design of Everyday Things* (revised ed.) | Buy / library |
 | Textbook 2 | Amy Ko, [*Design Methods*](https://faculty.washington.edu/ajko/books/design-methods/) | Free online |
 | Textbook 3 | Amy Ko, [*User Interface Software and Technology*](https://faculty.washington.edu/ajko/books/user-interface-software-and-technology/) | Free online |

@@ -21,7 +21,7 @@ tags: [course, week/08]
 
 ## 📚 Materials
 
-- **Lecture:** CS6750 Lessons 2.3 *Direct Manipulation and Invisible Interfaces*, 3.7 *HCI and Agile Development*
+- **Lecture:** Stanford CS147: *Interactive Prototyping & Direct Manipulation Techniques*
 - **Textbook:** Amy Ko, *User Interface Software and Technology* (free): https://faculty.washington.edu/ajko/books/user-interface-software-and-technology/ — ch. *Interactive Interfaces* & *Interface Architecture*
 - **Textbook:** Watch: Bret Victor, *Inventing on Principle* (2012 talk)
 - **Paper of the week:** Hutchins, Hollan & Norman (1985). *Direct Manipulation Interfaces*. Human-Computer Interaction 1(4). + Shneiderman (1983) *Direct Manipulation: A Step Beyond Programming Languages*, IEEE Computer.

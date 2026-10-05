@@ -21,7 +21,7 @@ tags: [course, week/10]
 
 ## 📚 Materials
 
-- **Lecture:** Lazar et al., *Research Methods in HCI* — chapters on Experimental Research, Experimental Design, Statistical Analysis
+- **Lecture:** Stanford CS147 / Research Methods: *Controlled Experiments & Quantitative Testing*
 - **Textbook:** Review: independent/dependent variables, within vs. between subjects, Latin square, t-test vs. Wilcoxon
 - **Paper of the week:** Kaptein & Robertson (2012). *Rethinking Statistical Analysis Methods for CHI*. CHI '12. + skim Cockburn, Gutwin & Dix (2018) *HARK No More: On the Preregistration of CHI Experiments*, CHI '18.
 

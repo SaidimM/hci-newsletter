@@ -21,7 +21,7 @@ tags: [course, week/04]
 
 ## 📚 Materials
 
-- **Lecture:** CS6750 Lessons 3.1 *Introduction to Methods*, 3.2 *Ethics and Human Research*, 3.3 *Needfinding and Requirements Gathering*
+- **Lecture:** Stanford CS147: *Needfinding & Contextual Inquiry*
 - **Textbook:** Amy Ko, *Design Methods* (free): https://faculty.washington.edu/ajko/books/design-methods/ — ch. *How to understand problems*
 - **Textbook:** Braun & Clarke (2006). *Using thematic analysis in psychology* — read sections on the 6 phases
 - **Paper of the week:** Beyer & Holtzblatt (1999). *Contextual Design*. ACM interactions 6(1).

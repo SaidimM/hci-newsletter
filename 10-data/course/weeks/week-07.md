@@ -21,7 +21,7 @@ tags: [course, week/07]
 
 ## 📚 Materials
 
-- **Lecture:** CS6750 Lessons 2.9 *Interfaces and Politics*, 2.10 *Conclusion to Principles*
+- **Lecture:** Stanford CS147 / CS347: *Midterm Review & Value-Sensitive Design*
 - **Textbook:** Amy Ko, *Design Methods* (free): https://faculty.washington.edu/ajko/books/design-methods/ — ch. *How to be critical*
 - **Paper of the week:** Winner (1980). *Do Artifacts Have Politics?* Daedalus 109(1).
 

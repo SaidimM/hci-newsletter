@@ -21,7 +21,7 @@ tags: [course, week/11]
 
 ## 📚 Materials
 
-- **Lecture:** (no CS6750 lesson) — Microsoft HAX Toolkit: *Guidelines for Human-AI Interaction* overview & design library
+- **Lecture:** Stanford CS347 / HAX: *Human-AI Interaction & Mixed-Initiative Interfaces*
 - **Textbook:** Amy Ko, *User Interface Software and Technology* (free): https://faculty.washington.edu/ajko/books/user-interface-software-and-technology/ — ch. *Interface Ethics*
 - **Paper of the week:** Amershi et al. (2019). *Guidelines for Human-AI Interaction*. CHI '19. + Horvitz (1999). *Principles of Mixed-Initiative User Interfaces*. CHI '99.
 

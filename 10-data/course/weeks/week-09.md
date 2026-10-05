@@ -21,7 +21,7 @@ tags: [course, week/09]
 
 ## 📚 Materials
 
-- **Lecture:** CS6750 Lesson 3.6 *Evaluation*
+- **Lecture:** Stanford CS147: *Usability Testing & Participant Studies*
 - **Textbook:** Amy Ko, *Design Methods* (free): https://faculty.washington.edu/ajko/books/design-methods/ — ch. *How to evaluate empirically*
 - **Textbook:** Brooke (1996). *SUS: A 'Quick and Dirty' Usability Scale*
 - **Paper of the week:** Nielsen & Landauer (1993). *A Mathematical Model of the Finding of Usability Problems*. INTERCHI '93.
