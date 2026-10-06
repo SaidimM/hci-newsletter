@@ -28,15 +28,15 @@ tags: [course, week/01]
 
 ## 🗓️ Daily jobs (~18 h)
 
-| Day | Time | Job | Output (where it goes) |
-|---|---|---|---|
-| Mon | 2 h | Watch lecture, take notes | `20-notes/lectures/week-01.md` |
-| Tue | 2 h | Textbook reading → write concept notes | `20-notes/concepts/*.md` |
-| Wed | 2 h | Read paper of the week | `20-notes/papers/<author-year-title>.md` |
-| Thu | 2 h | **Homework kickoff:** Read brief; pick 3 interfaces; plan where/when to observe someone | `20-notes/homework/hw01-everyday-gulfs/submission.md` |
-| Fri | 2 h | **Homework:** Do the 7-stage walkthroughs for the 2 interfaces you analyze alone | `20-notes/homework/hw01-everyday-gulfs/` |
-| Sat | 4 h | **Field work:** Field observation of P1 (30–60 min incl. notes); photograph interfaces | `20-notes/homework/hw01-everyday-gulfs/` |
-| Sun | 4 h | Finish write-up → self-grade → weekly review → post draft → skim next week | `grade.md`, journal, `30-posts/` |
+| Day | Time | Job                                                                                     | Output (where it goes)                                |
+| --- | ---- | --------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| Mon | 2 h  | Watch lecture, take notes                                                               | `20-notes/lectures/week-01.md`                        |
+| Tue | 2 h  | Textbook reading → write concept notes                                                  | `20-notes/concepts/*.md`                              |
+| Wed | 2 h  | Read paper of the week                                                                  | `20-notes/papers/<author-year-title>.md`              |
+| Thu | 2 h  | **Homework kickoff:** Read brief; pick 3 interfaces; plan where/when to observe someone | `20-notes/homework/hw01-everyday-gulfs/submission.md` |
+| Fri | 2 h  | **Homework:** Do the 7-stage walkthroughs for the 2 interfaces you analyze alone        | `20-notes/homework/hw01-everyday-gulfs/`              |
+| Sat | 4 h  | **Field work:** Field observation of P1 (30–60 min incl. notes); photograph interfaces  | `20-notes/homework/hw01-everyday-gulfs/`              |
+| Sun | 4 h  | Finish write-up → self-grade → weekly review → post draft → skim next week              | `grade.md`, journal, `30-posts/`                      |
 
 ## 🧠 Concept notes to create this week
 
