@@ -6,12 +6,12 @@ This curated reading list bridges software engineering expertise with HCI academ
 
 ## Module 1: Foundational HCI Concepts (Weeks 1–3)
 
-| Paper / Book | Authors | Key Topic | Why Read It |
-|---|---|---|---|
-| **The Design of Everyday Things** (Book) | Don Norman | Affordances, signifiers, mental models, feedback loops | The seminal vocabulary book for modern design & interaction. |
-| **Direct Manipulation Interfaces** (1985) | Edwin Hutchins, James Hollan, Donald Norman | Semantic and articulatory distance | Explains why graphical interfaces feel natural compared to CLI. |
-| **The Computer for the 21st Century** (1991) | Mark Weiser | Ubiquitous Computing (Ubicomp) | Vision of calm technology and seamless computing. |
-| **As We May Think** (1945) | Vannevar Bush | The Memex, associative trails | Historical root of hypertext, personal knowledge, and HCI. |
+| Paper / Book                                 | Authors                                     | Key Topic                                              | Why Read It                                                     |
+| -------------------------------------------- | ------------------------------------------- | ------------------------------------------------------ | --------------------------------------------------------------- |
+| **The Design of Everyday Things** (Book)     | Don Norman                                  | Affordances, signifiers, mental models, feedback loops | The seminal vocabulary book for modern design & interaction.    |
+| **Direct Manipulation Interfaces** (1985)    | Edwin Hutchins, James Hollan, Donald Norman | Semantic and articulatory distance                     | Explains why graphical interfaces feel natural compared to CLI. |
+| **The Computer for the 21st Century** (1991) | Mark Weiser                                 | Ubiquitous Computing (Ubicomp)                         | Vision of calm technology and seamless computing.               |
+| **As We May Think** (1945)                   | Vannevar Bush                               | The Memex, associative trails                          | Historical root of hypertext, personal knowledge, and HCI.      |
 
 ---
 

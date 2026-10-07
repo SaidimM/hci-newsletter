@@ -138,7 +138,7 @@ Figma - FigJam has the mature solution for this
 ## Key Ideas from Prof. James Landay's Lecture
 - **What is HCI?**: **Design thinking user experience**
 - **The Double Diamond / Iterative Design Process** (Needfinding → Prototyping → Evaluation):
-- **Why engineering intuition fails without user observation**:
+- **Why engineering intuition fails without user observation**: User Centered Design
 
 ## Feedback Cycles & The 7 Stages of Action (Norman)
 - **Gulf of Execution** (How hard is it to figure out what to do?):
